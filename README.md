@@ -1,5 +1,6 @@
 # DecodeLabs-project-1
 DecodeLabs Project 1 - Smart Environment Monitor
+
 📌 Project Overview
 This project is developed as part of the DecodeLabs Internship Program.
 The project demonstrates an IoT-based smart system simulation using software tools without requiring physical hardware.
@@ -17,6 +18,7 @@ Python 3.x
 VS Code
 Object-Oriented Programming Concepts
 IoT Simulation Concepts
+
 📂 Project Structure
 DecodeLabs_Project_1/ │ ├── main.py ├── sensor.py ├── controller.py ├── README.md │ └── output/ └── screenshots
 
@@ -26,6 +28,7 @@ Real-time monitoring
 Automatic decision making
 Device status control
 Console-based output display
+
 ▶️ How to Run the Project
 Step 1: Clone the Repository
 git clone
